@@ -1,4 +1,4 @@
-This an ESL pipeline (extract, transform, and load) for data orchestration. 
+This is an ESL pipeline (extract, transform, and load) for data orchestration. 
 
 What this script will do is: 
 
